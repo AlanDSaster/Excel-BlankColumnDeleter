@@ -1,4 +1,4 @@
-#Excel-BlankColumnDeleter
+# Excel-BlankColumnDeleter
 
 <b>Note:</b> This set of subroutines assumes your spreadsheet includes headers.
 
